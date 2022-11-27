@@ -1,8 +1,8 @@
 # Experiment--09-Configuring-UART-in-LPC2148-for-serial-data-transmission-
 
-Name :	Ashwin Raaj.S
+Name :	P.Sarveshvaran
 
-Roll no :212221230008
+Roll no :212221230090
 
 ## Configuring UART in LPC2148 for serial data transmission 
 
